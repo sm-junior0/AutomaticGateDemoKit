@@ -9,7 +9,6 @@ const int blueLedCathodePin = 7;
 const int blueLedPin = 5; // Blue LED pin
 const int servoPin = 6;   // Servo motor pin
 const int buzzerPin = 12; // Buzzer pin
-
 // Constants
 const float thresholdDistance = 10.0;  // Detection distance in cm
 const int closedAngle = 0;             // Servo angle when barrier is closed
